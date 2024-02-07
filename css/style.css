@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #ffffff;
+}
+.main{
+    background-color: #E3EFF0; 
+}
+.header_part{
+    height: 100px;
+    background-color: #A7CACD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro_section{
+    display: flex;
+}
+.intro_copy{
+    width: 520px;
+    height: 250px;
+    margin: 10px 10px 10px 10px;
+    background-color: #A7CACD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right_side{
+    width: 440px;
+}
+.Hero_image{
+    height: 190px;
+    margin: 10px 10px 10px 10px;
+    background-color: #A7CACD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call_to_action{
+    height: 50px;
+    margin: 0 10px 10px 10px;
+    background-color: #CED911;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.features_section{
+    height: 130px;
+    margin: 0 10px 10px 10px;
+    background-color: #A7CACD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.more_section{
+    display: flex;
+}
+.more_copy{
+    width: 543px;
+    height: 70px;
+    margin: 0 10px 10px 10px;
+    background-color: #A7CACD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call_to_action2{
+    width: 440px;
+    height: 70px;
+    margin: 0 10px 10px 10px;
+    background-color: #CED911;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_section{
+    background-color: #A7CACD;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p,a{
+    margin-top: 10px;
+    text-decoration: none;
+}
+.rights{
+    text-align: center;
+}
